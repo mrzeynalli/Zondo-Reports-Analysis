@@ -8,4 +8,4 @@ Among the guilty parties mentioned in the [reports](https://www.statecapture.org
 
 The findings are given in a mini report at the very botton of the working file
 
-NOTE: This work is carried out collaborating with Michaelf Burke (github.com/michaelfburke)
+NOTE: This work is carried out collaborating with Michael F. Burke (github.com/michaelfburke)
