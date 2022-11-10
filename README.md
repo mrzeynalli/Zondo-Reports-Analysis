@@ -1,6 +1,6 @@
 # Zondo-Reports-Analysis
 
- This repo contains a text analysis from Zondo Reports based in South African corruption findigns.
+This repo contains a text analysis from Zondo Reports based in South African corruption findigns. The working file ending with .ipynb should be opened by using Jupyter Notebook independenetly or VS Code's extention of Jupyter Notebook.
  
 In 2018, former President of South Africa, Jacob Zuma, established a commission of enquiry in state capture, known as [The Judicial Commission of Inquiry into Allegations of State Capture, Corruption and Fraud in the Public Sector including Organs of State](https://www.statecapture.org.za/), or simply the Zondo Commission. The commission collected one exabyte of evidence, and on 22 June 2022 released its final report. 
 
